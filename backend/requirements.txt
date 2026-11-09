@@ -1,0 +1,23 @@
+fastapi==0.135.1
+openai==2.44.0
+pandas
+python-dotenv==1.1.0
+tradingview-screener==3.2.1
+uvicorn==0.40.0
+supabase==2.24.0
+google-genai==1.50.0
+json-stream==2.5.1
+lxml==6.1.1
+trafilatura==2.2.0
+psycopg[binary]==3.2.12
+azure-storage-blob==12.27.1
+yfinance==1.5.1
+playwright==1.61.0
+openai-agents[sqlalchemy]==0.18.1
+asyncpg==0.30.0
+SQLAlchemy>=2.0.36,<3
+pyqlib==0.9.7
+redis==7.3.0
+cryptography==48.0.1
+# abnf 2.9 rejects the RFC core-rule definitions used by siwe 4.4.
+abnf==2.2.0

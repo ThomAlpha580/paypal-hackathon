@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /decision
+
+Sitemap: https://easystock.dev/sitemap.xml
